@@ -6,6 +6,7 @@ mautic
 
 www/vendor
 www/web/core/
+www/web/sites/
 www/web/README.txt
 www/web/modules/README.txt
 www/web/themes/README.txt
