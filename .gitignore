@@ -3,3 +3,10 @@ mutagen.yml.lock
 .vscode
 mariadb
 mautic
+
+www/vendor
+www/web/core/
+www/web/README.txt
+www/web/modules/README.txt
+www/web/themes/README.txt
+www/web/modules/contrib
