@@ -5,9 +5,10 @@ https://gitpod.io
 https://gitpod.io/new#https://github.com/woutersf/workshop-mountain-camp-ch-24
 
 # Composer install
-Try sudo composer install, only for this demo.
+Try 'sudo composer install', only for this demo.
 
 # docker-compose start
+'docker-compose start'
 or click the Whale and right click compose-start
 
 # Settings file fiddling
